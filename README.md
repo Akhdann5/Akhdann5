@@ -7,6 +7,17 @@
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework.
 - ⚡ Fun fact: Im is Student in SMK IDN Boarding School
 - 📌 I'm 16 Years Old
+- 🎮 I like to Play some Game
+
+## My Skill?
+- 🥱 HTML
+- 😄 CSS 
+- 🤔 JavaScript
+- 🔥 PHP
+- 🤣 Tailwind
+- 🥶 Laravel
+- 🎨 Figma
+- 💻 Blender 3D
 
 ## Im Ready to Work with
 - 🥱 HTML
