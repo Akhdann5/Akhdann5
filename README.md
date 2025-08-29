@@ -4,7 +4,7 @@
 
 ## About Me?
 - 👀 I born in Bekasi, South Tambun
-- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework.
+- 🌱 I’m currently learning [**Flutter**](https://flutter.com).
 - ⚡ Fun fact: Im is Student in SMK IDN Boarding School
 - 📌 I'm 16 Years Old
 - 🎮 I like to Play some Game
@@ -18,6 +18,7 @@
 - 🥶 Laravel
 - 🎨 Figma
 - 💻 Blender 3D
+- 😭Flutter
 
 ## Im Ready to Work with
 - 🥱 HTML
